@@ -12,6 +12,11 @@
   <a href="[https://github.com/seondal](https://velog.io/@suhyun_zip)"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Velog&logoColor=white"/></a>
 
   <br><br>
+
+  <h3>🙌 My Team Project</h3>
+  <a href="https://github.com/4-TravelMaker/TravelMaker">✈️Semi Project - Travel Maker✈️</a>
+  
+  <br><br>
   
   <h3>📚 Stacks</h3>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
