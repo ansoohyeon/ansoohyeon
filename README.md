@@ -45,7 +45,7 @@
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fansoohyeon%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://github.com/ansoohyeon)</a>
   <a href="https://velog.io/@suhyun_zip"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@suhyun_zip"/></a>
-  <a href="mailto:dkstngus0615@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:dkstngus0615@gmail.com"/>
+  <a href="mailto:dkstngus0615@gmail.com"><img src="https://img.shields.io/badge/dkstngus0615@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:dkstngus0615@gmail.com"/>
 
 </div>
 
