@@ -10,7 +10,7 @@
   
   <br><br>
 
-  <h3>🙌 My Team Project</h3>
+  <h3>🙌 My Project</h3>
   <a href="https://github.com/4-TravelMaker/TravelMaker">✈️Semi Project - Travel Maker✈️</a>
   
   <br><br>
