@@ -5,7 +5,7 @@
   <h3>🤍 Introduction</h3>
   안녕하세요!<br>
   프론트와 백엔드 모두 관심 있는 개발자 꿈나무입니다.<br>
-  매일 성실하게 지식을 기록합니다.
+  매일 성실하게 지식을 기록합니다. ✏️
   <br><br>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fansoohyeon%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
