@@ -12,6 +12,7 @@
 
   <h3>🙌 My Project</h3>
   <a href="https://github.com/4-TravelMaker/TravelMaker">✈️Semi Project - Travel Maker✈️</a>
+  <a href="https://github.com/DeuggeunJeonsu/DeuggeunJeonsu.git">🏃‍♂️Final Project - 득근전수🏃‍♀️</a>
   
   <br><br>
   
